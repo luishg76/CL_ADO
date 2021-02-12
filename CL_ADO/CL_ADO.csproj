@@ -44,6 +44,7 @@
     <Compile Include="GConexion.cs" />
     <Compile Include="GIterador.cs" />
     <Compile Include="GOperationSQL.cs" />
+    <Compile Include="GTabla.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
