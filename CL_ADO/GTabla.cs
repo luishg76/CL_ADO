@@ -10,6 +10,10 @@ using System.Collections;
 
 namespace CL_ADO
 {
+    /// <summary>
+    /// Esta clase es generica
+    /// </summary>
+    /// <typeparam name="T"></typeparam>
     public abstract class GTabla<T>:IDisposable
     {
         protected DataTable aTabla=null;
